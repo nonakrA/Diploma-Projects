@@ -1,0 +1,5 @@
+116;Drain Blockage;Strawberry Road;Minor Damage;3
+117;Beaver Attack;Banana Road;Major Damage;4
+118;Flooding;Durian Road;Major Damage;5
+119;Drain Blockage;Durian Road;Normal;1
+120;Drain Blockage;Banana Road;Minor Damage;2

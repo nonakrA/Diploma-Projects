@@ -1,0 +1,5 @@
+111;Hospital;Strawberry Road;Major Damage;5
+112;Station Bus;Banana Road;Minor Damage;4
+113;Police Office;Durian Road;Minor Damage;3
+114;Fire Office;Durian Road;Normal;2
+115;Tree Blockage;Strawberry Road;Normal;1

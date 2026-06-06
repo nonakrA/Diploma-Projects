@@ -1,0 +1,5 @@
+101;Power Plant;Strawberry Road;Major Damage;5
+102;Streetlight;Banana Road;Minor Damage;3
+103;Power Pole;Durian Road;Minor Damage;2
+104;Playground Light;Kiwi Road;Normal;1
+105;Traffic Light;Strawberry Road;Major Damage;4

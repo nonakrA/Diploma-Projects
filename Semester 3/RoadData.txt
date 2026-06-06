@@ -1,0 +1,5 @@
+106;Sink Hole;Strawberry Road;Major Damage;5
+107;Pot Hole;Banana Road;Minor Damage;4
+108;Street Lone;Durian Road;Minor Damage;1
+109;Divider;Durian Road;Normal;2
+110;Tree Blockage;Strawberry Road;Minor Damage;3
